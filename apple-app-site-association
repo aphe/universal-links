@@ -5,7 +5,7 @@
             {
                 "appID": "Y5QG9H9P44.com.kitabisa.ios.staging",
                 "paths": [
-                    "NOT *.kitabisa.xyz/forgot-password/*",
+                    "NOT /forgot-password/*",
                     "/explore/*",
                     "/",
                     "/*"
@@ -14,7 +14,7 @@
             {
                 "appID": "Y5QG9H9P44.com.kitabisa.ios",
                 "paths": [
-                    "NOT *.kitabisa.com/forgot-password/*",
+                    "NOT /forgot-password/*",
                     "/explore/*",
                     "/",
                     "/*"
