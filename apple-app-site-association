@@ -1,11 +1,25 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
-				"appID": "Y5QG9H9P44.com.kitabisa.ios.staging",
-				"paths": [ "/explore/*", "/", "/*" ]
-			}
-		]
-	}
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "Y5QG9H9P44.com.kitabisa.ios.staging",
+                "paths": [
+                    "NOT *.kitabisa.xyz/forgot-password/*",
+                    "/explore/*",
+                    "/",
+                    "/*"
+                ]
+            },
+            {
+                "appID": "Y5QG9H9P44.com.kitabisa.ios",
+                "paths": [
+                    "NOT *.kitabisa.com/forgot-password/*",
+                    "/explore/*",
+                    "/",
+                    "/*"
+                ]
+            }
+        ]
+    }
 }
