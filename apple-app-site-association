@@ -6,7 +6,7 @@
                 "appID": "Y5QG9H9P44.com.kitabisa.ios.staging",
                 "paths": [
                     "NOT /forgot-password/*",
-                    "NOT /campaign/*utm_source=gojek",
+                    "NOT /campaign/*",
                     "/explore/*",
                     "/",
                     "/*"
